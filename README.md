@@ -1,10 +1,10 @@
-# Assignment 9
+# Assignment 12
 
 ## Full Stack Javascript Web Development Course by [iNeuron](https://ineuron.ai/)
 
 This website is created with HTML and CSS only. As of now, this website is not mobile responsive, but I will update this project very soon to make it mobile responsive. It took me almost 3 to 4 hours to complete this project. All the images and logos were provided by iNeuron team.
 
-[Click Here](https://webdevelop-project9.netlify.app) to view the website.
+[Click Here](https://business-page-project12.netlify.app) to view the website.
 
 
 ## Contact me:  [Github](https://github.com/yuvanbharathin) |  [Instagram](https://www.instagram.com/_yuvan.__/)
